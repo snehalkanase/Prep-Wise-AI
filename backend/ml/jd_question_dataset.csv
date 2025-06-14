@@ -1,0 +1,5 @@
+role,experience,jd,questions
+Full Stack Dev,2,"Work on React, Node, PostgreSQL, build REST APIs","What are REST APIs? How do React and Node interact? How do you handle DB relationships in SQL?"
+Data Scientist,1,"Responsible for data cleaning, model training, sklearn, pandas","What is data cleaning? How do you evaluate a model? How does pandas help in preprocessing?"
+DevOps Engineer,3,"Deploy apps on AWS, CI/CD, Docker, Kubernetes","How do you manage deployments on AWS? What is CI/CD pipeline? Explain Docker vs Kubernetes"
+Backend Developer,4,"Create secure APIs, JWT Auth, SQL optimizations","What is JWT authentication? How do you optimize SQL queries?"
